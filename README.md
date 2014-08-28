@@ -5,4 +5,4 @@ Angular D3 Directive
 的chart指令，采用D3(http://d3js.org/)
 编写，指令参数的格式参考了highcharts。目前只是实现了部分功能，后续在陆续实现！
 
-![使用该指令的效果截图](https://github.com/nisejay/ng-d3/blob/master/demo.jpg "Using angular d3 directive")
+![使用该指令的效果截图](https://github.com/nisejay/ng-d3/blob/master/demo_d3.jpg "Using angular d3 directive")
